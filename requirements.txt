@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+pytgcalls==5.0.0
+yt-dlp==2024.7.9
+motor==3.3.2
